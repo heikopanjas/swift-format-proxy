@@ -171,7 +171,7 @@ jobs:
                       3. Make it executable: `chmod +x /usr/local/bin/swift-format-proxy`
 
                       ### Usage
-                      Configure your VS Code settings to use this tool with the apple-swift-format extension.
+                      See the included README.md for detailed configuration instructions.
 
                       **Build Information:**
                       - Build Number: ${{ needs.build-universal-macos.outputs.build-number }}
